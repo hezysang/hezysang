@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **hezysang/hezysang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Stats
+[![Hezron Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezysang&theme=dracula&show_icons=true&bg_color=30,c33764,1d2671&title_color=fff&text_color=fff)](https://github.com/hezysang)
